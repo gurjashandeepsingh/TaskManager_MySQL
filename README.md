@@ -31,6 +31,8 @@ To install the project, follow these steps:
    
    ```npm run start```
 
+   ```This app is protected by .env file, if anyone wants these variables please email me on gurjashandeepsingh1@gmail.com```
+
 The server will start running on port 3000 by default.
 
 To change port add env variable:
